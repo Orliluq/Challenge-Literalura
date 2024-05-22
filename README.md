@@ -67,3 +67,7 @@ También almacena información en una base de datos local para que puedas accede
   <img src="https://github.com/Orliluq/Challenge-Literalura/assets/122529721/eeba9070-e83f-4547-91b6-61b0c62799e7" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/Orliluq/Challenge-Literalura/assets/122529721/c458ab92-ab59-47df-95f8-364f2c85be6b" />
+</p>
+
