@@ -33,11 +33,11 @@ También almacena información en una base de datos local para que puedas accede
 
 ## Estructura del proyecto:
 - src/main/java:
-  * com.alura.literalura:
-  ** model: Contiene las clases que representan los datos de libros y autores.
-  ** repository: Contiene las interfaces y clases que se utilizan para acceder a la base de datos.
-  ** service: Contiene las clases que implementan la lógica de negocio de la aplicación.
-  ** principal: Contiene la clase principal de la aplicación.
+  - com.alura.literalura:
+    - model: Contiene las clases que representan los datos de libros y autores.
+    - repository: Contiene las interfaces y clases que se utilizan para acceder a la base de datos.
+    - service: Contiene las clases que implementan la lógica de negocio de la aplicación.
+    - principal: Contiene la clase principal de la aplicación.
 - src/main/resources: Contiene los archivos de configuración de la aplicación.
 - pom.xml: Contiene las dependencias del proyecto.
 
